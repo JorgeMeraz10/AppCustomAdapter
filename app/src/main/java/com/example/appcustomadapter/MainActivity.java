@@ -11,10 +11,13 @@ import android.widget.ListView;
 public class MainActivity extends AppCompatActivity {
 
     String PlayerList[] = {"Lionel Messi", "Cristiano Ronaldo", "Robert Lewandowski", "Karim Benzema",
-                           "Kylian Mbappe", "Erling Haaland"};
+                           "Kylian Mbappe", "Erling Haaland", "Vinicius Jr", "Neymar Jr", "Thomas Muller",
+                           "Ousmane Dembele" , "Andres Iniesta", "Mohamed Salah", "Angel Di Maria"};
 
     int playerImages [] = {R.drawable.img_2, R.drawable.cristiano, R.drawable.img_1, R.drawable.img,
-                        R.drawable.mbappe, R.drawable.haaland };
+                        R.drawable.mbappe, R.drawable.haaland , R.drawable.vini , R.drawable.neymar,
+                        R.drawable.muller, R.drawable.dembele, R.drawable.iniesta,  R.drawable.salah,
+                         R.drawable.dimaria};
 
     ListView listView;
 
