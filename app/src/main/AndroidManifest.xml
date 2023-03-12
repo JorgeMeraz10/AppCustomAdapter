@@ -12,6 +12,9 @@
         android:theme="@style/Theme.AppCustomAdapter"
         tools:targetApi="31">
         <activity
+            android:name=".BiblioActivity"
+            android:exported="false" />
+        <activity
             android:name=".CustomListView"
             android:exported="false" />
         <activity
