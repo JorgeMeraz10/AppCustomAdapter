@@ -107,11 +107,11 @@ public class MainActivity extends AppCompatActivity {
                 "Thomas Müller es un futbolista alemán que juega de delantero y centrocampista en el Bayern de Múnich de la Bundesliga. Fue internacional absoluto de la selección de fútbol de Alemania.\u200B Es el futbolista alemán que más títulos ha conquistado en toda la historia del futbol, con un total de 32.", R.drawable.muller));
 
         jugadores.add(new Jugadores("Ousmane Dembele", "Nombre Completo:\n" +
-                "Edad:\n" +
-                "Nacionalidad:\n" +
-                "Equipos: \n" +
-                "Estatura:\n" +
-                "Nacimiento: ", R.drawable.dembele));
+                "Edad: 25 Años\n" +
+                "Nacionalidad: Francesa\n" +
+                "Equipos: Fútbol Club Barcelona (#7 / Delantero), Selección de fútbol de Francia (#11 / Delantero) \n" +
+                "Estatura: 1.78 M\n" +
+                "Nacimiento: 15 de mayo de 1997 (edad 25 años), Vernon, Francia "+"\n\nMasour Ousmane Dembélé es un futbolista francés que juega como delantero en el F. C. Barcelona de la Primera División de España. Es internacional con la selección de fútbol de Francia.", R.drawable.dembele));
 
         jugadores.add(new Jugadores("Andres Iniesta", "Nombre Completo:Andrés Iniesta Luján\n" +
                 "Edad:38\n" +
