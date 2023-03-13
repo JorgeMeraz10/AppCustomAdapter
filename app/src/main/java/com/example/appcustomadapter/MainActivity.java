@@ -106,7 +106,7 @@ public class MainActivity extends AppCompatActivity {
                 "Nacimiento:  13 de septiembre de 1989 (edad 33 años), Weilheim in Oberbayern, Alemania"+"\n\nResumen:\n" +
                 "Thomas Müller es un futbolista alemán que juega de delantero y centrocampista en el Bayern de Múnich de la Bundesliga. Fue internacional absoluto de la selección de fútbol de Alemania.\u200B Es el futbolista alemán que más títulos ha conquistado en toda la historia del futbol, con un total de 32.", R.drawable.muller));
 
-        jugadores.add(new Jugadores("Ousmane Dembele", "Nombre Completo:\n" +
+        jugadores.add(new Jugadores("Ousmane Dembele", "Nombre Completo: Masour Ousmane Dembélé \n" +
                 "Edad: 25 Años\n" +
                 "Nacionalidad: Francesa\n" +
                 "Equipos: Fútbol Club Barcelona (#7 / Delantero), Selección de fútbol de Francia (#11 / Delantero) \n" +
